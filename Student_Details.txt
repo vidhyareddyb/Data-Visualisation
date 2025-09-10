@@ -1,0 +1,5 @@
+name:vidhya
+usn:1VI23CD060
+email:bvidhyareddy1410@gmail.com
+branch:data science
+year:2023-2027
